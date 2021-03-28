@@ -53,7 +53,7 @@ void _input::keyPressed(_player* ply)
     case VK_RIGHT:
         {
             ply->actionTrigger = ply->WALK;     //DO ACTION ACCORDING TO YOUR SPRITE
-            ply->playerPos.x += 0.005;
+            ply->playerPos.x = ply->playerPos.x + 0.005;
             break;
         }
     case VK_UP:
