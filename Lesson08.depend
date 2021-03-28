@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1614045887 source:c:\users\giris\desktop\csci191games\lesson08\main.cpp
+	<windows.h>
+	<_glScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1616030799 c:\users\giris\desktop\csci191games\lesson08\include\_glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<_model.h>
+	<_input.h>
+	<_texture.h>
+	<_parallax.h>
+	<_player.h>
+	<_timer.h>
+	<_enemies.h>
+
+1612228921 c:\users\giris\desktop\csci191games\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1614215062 c:\users\giris\desktop\csci191games\lesson08\include\_model.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1615856019 c:\users\giris\desktop\csci191games\lesson08\include\_input.h
+	<windows.h>
+	<_model.h>
+	<_parallax.h>
+	<_player.h>
+
+1614821346 c:\users\giris\desktop\csci191games\lesson08\include\_parallax.h
+	<string>
+	<GL/gl.h>
+	<_texture.h>
+
+1614648949 c:\users\giris\desktop\csci191games\lesson08\include\_texture.h
+	<SOIL.h>
+	<GL/gl.h>
+	<iostream>
+
+1613613288 c:\users\giris\desktop\csci191games\common\include\soil.h
+
+1615855029 c:\users\giris\desktop\csci191games\lesson08\include\_player.h
+	<_common.h>
+	<_texture.h>
+	<iostream>
+	<GL/gl.h>
+
+1615252925 c:\users\giris\desktop\csci191games\lesson08\include\_common.h
+
+1615427954 c:\users\giris\desktop\csci191games\lesson08\include\_timer.h
+	<time.h>
+
+1616633228 source:c:\users\giris\desktop\csci191games\lesson08\src\_enemies.cpp
+	"_enemies.h"
+
+1616027803 c:\users\giris\desktop\csci191games\lesson08\include\_enemies.h
+	<_common.h>
+	<_timer.h>
+	<GL/gl.h>
+
+1613008945 source:c:\users\giris\desktop\csci191games\lesson08\src\_gllight.cpp
+	"_glLight.h"
+
+1613009525 c:\users\giris\desktop\csci191games\lesson08\include\_gllight.h
+	<_glScene.h>
+
+1616633126 source:c:\users\giris\desktop\csci191games\lesson08\src\_glscene.cpp
+	"_glScene.h"
+	"_glLight.h"
+	<SOIL.h>
+
+1615856813 source:c:\users\giris\desktop\csci191games\lesson08\src\_input.cpp
+	"_input.h"
+
+1614215092 source:c:\users\giris\desktop\csci191games\lesson08\src\_model.cpp
+	"_model.h"
+
+1614825615 source:c:\users\giris\desktop\csci191games\lesson08\src\_parallax.cpp
+	"_parallax.h"
+
+1616034072 source:c:\users\giris\desktop\csci191games\lesson08\src\_player.cpp
+	"_player.h"
+
+1616030959 source:c:\users\giris\desktop\csci191games\lesson08\src\_texture.cpp
+	"_texture.h"
+
+1615428375 source:c:\users\giris\desktop\csci191games\lesson08\src\_timer.cpp
+	"_timer.h"
+
