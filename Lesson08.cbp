@@ -47,6 +47,7 @@
 		</Linker>
 		<Unit filename="include/_common.h" />
 		<Unit filename="include/_enemies.h" />
+		<Unit filename="include/_fallingObject.h" />
 		<Unit filename="include/_glLight.h" />
 		<Unit filename="include/_glScene.h" />
 		<Unit filename="include/_input.h" />
@@ -57,6 +58,7 @@
 		<Unit filename="include/_timer.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/_enemies.cpp" />
+		<Unit filename="src/_fallingObject.cpp" />
 		<Unit filename="src/_glLight.cpp" />
 		<Unit filename="src/_glScene.cpp" />
 		<Unit filename="src/_input.cpp" />
